@@ -1,4 +1,3 @@
-import { GetServerSideProps } from "next";
 import prisma from "../../lib/prisma";
 
 export const getData = async () => {
